@@ -1,0 +1,1 @@
+failover=com.alibaba.dubbo.rpc.cluster.Cluster$Adaptive

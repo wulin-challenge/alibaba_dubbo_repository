@@ -1,0 +1,1 @@
+netty=com.alibaba.dubbo.remoting.Transporter$Adaptive
